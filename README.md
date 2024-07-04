@@ -1,3 +1,15 @@
+# FQL v12 `0.8.0` Beta 1
+This is a beta release (0.8.0-beta.1) of FQL. Follow the steps below:
+
+- Uninstall any existing FQL module.
+
+- Install the beta from this package link in the Foundry package manager:
+`https://github.com/typhonjs-fvtt-scratch/foundryvtt-forien-quest-log/releases/latest/download/module.json`
+
+For good measure when the official `0.8.0` release becomes available uninstall the beta release and reinstall FQL from the Foundry package manager.
+
+---------
+
 # FoundryVTT - Forien's Quest Log
 
 ![FQL Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/League-of-Foundry-Developers/foundryvtt-forien-quest-log/master/module.json&label=Forien%27s+Quest+Log+version&query=version&style=flat-square&color=success")
