@@ -17,7 +17,7 @@
   "readme": "https://github.com/League-of-Foundry-Developers/foundryvtt-forien-quest-log/blob/master/README.md",
   "bugs": "https://github.com/League-of-Foundry-Developers/foundryvtt-forien-quest-log/issues",
   "changelog": "https://github.com/League-of-Foundry-Developers/foundryvtt-forien-quest-log/releases/latest/",
-  "version": "0.7.14",
+  "version": "0.8.0-beta.1",
   "compatibility": {
     "minimum": "11",
     "verified": "12",
@@ -127,8 +127,8 @@
     }
   ],
   "socket": true,
-  "manifest": "https://github.com/League-of-Foundry-Developers/foundryvtt-forien-quest-log/releases/latest/download/module.json",
-  "download": "https://github.com/League-of-Foundry-Developers/foundryvtt-forien-quest-log/releases/download/0.7.12/module.zip",
+  "manifest": "https://github.com/typhonjs-fvtt-scratch/foundryvtt-forien-quest-log/releases/latest/download/module.json",
+  "download": "https://github.com/typhonjs-fvtt-scratch/foundryvtt-forien-quest-log/releases/download/0.8.0-beta.1/module.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
